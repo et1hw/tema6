@@ -1,0 +1,14 @@
+C:\Users\Глеб\source\repos\tema6\tema6\bin\Debug\net8.0\tema6.exe
+C:\Users\Глеб\source\repos\tema6\tema6\bin\Debug\net8.0\tema6.deps.json
+C:\Users\Глеб\source\repos\tema6\tema6\bin\Debug\net8.0\tema6.runtimeconfig.json
+C:\Users\Глеб\source\repos\tema6\tema6\bin\Debug\net8.0\tema6.dll
+C:\Users\Глеб\source\repos\tema6\tema6\bin\Debug\net8.0\tema6.pdb
+C:\Users\Глеб\source\repos\tema6\tema6\obj\Debug\net8.0\tema6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Глеб\source\repos\tema6\tema6\obj\Debug\net8.0\tema6.AssemblyInfoInputs.cache
+C:\Users\Глеб\source\repos\tema6\tema6\obj\Debug\net8.0\tema6.AssemblyInfo.cs
+C:\Users\Глеб\source\repos\tema6\tema6\obj\Debug\net8.0\tema6.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\tema6\tema6\obj\Debug\net8.0\tema6.dll
+C:\Users\Глеб\source\repos\tema6\tema6\obj\Debug\net8.0\refint\tema6.dll
+C:\Users\Глеб\source\repos\tema6\tema6\obj\Debug\net8.0\tema6.pdb
+C:\Users\Глеб\source\repos\tema6\tema6\obj\Debug\net8.0\tema6.genruntimeconfig.cache
+C:\Users\Глеб\source\repos\tema6\tema6\obj\Debug\net8.0\ref\tema6.dll
